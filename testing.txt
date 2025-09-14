@@ -1,0 +1,2 @@
+Developer: Shubham Kumar
+Domain: Full Stack Development (Next.js, TypeScript)
